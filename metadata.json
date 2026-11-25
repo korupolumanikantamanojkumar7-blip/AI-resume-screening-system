@@ -1,0 +1,6 @@
+{
+  "name": "TalentLens — AI-Based Resume Screening System",
+  "description": "An NLP-powered resume screening and candidate ranking platform with skill extraction, semantic matching, blind screening mode, and model evaluation analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
